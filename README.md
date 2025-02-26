@@ -69,3 +69,41 @@ https://github.com/wns0901/crew-dock-client
 예제 [Feat/Back]: 이슈 내용
 
 
+### Main.
+![](https://velog.velcdn.com/images/codegod/post/3682b4e3-f36b-4491-a58d-badbad670bed/image.gif)
+- 관리자가 설정한 배너가 3초마다 슬라이드 되고 버튼을 통해 넘겨볼 수 있음
+- 모집중인 게시글에 대하여 스크랩하는 기능으로 스크랩 이후 본인 마이페이지에서 다음과 같이 표시됨
+![](https://velog.velcdn.com/images/codegod/post/0d1d1fa1-92ad-4525-919a-685f5307b6b4/image.png)
+
+
+### Projects.
+
+![](https://velog.velcdn.com/images/codegod/post/47a03449-1e92-4159-bfe1-9450eaa3dd45/image.gif)
+- 프로젝트 페이지 메인에서 팀 캘린더및 공지사항을 표시함
+- 이슈관리 탭을 통해 팀 이슈를 작성하고 수정할 수 있는 영역
+
+![](https://velog.velcdn.com/images/codegod/post/8a0969bd-3f79-441b-88e4-5d8c11e7b756/image.gif)
+- 깃 API를 통해 프로젝트 정보에 기입된 url 기반으로 커밋리스트, 풀리퀘스트, 이슈리스트를 표시
+- 필터링을 통해 서버단, 프론트 단 레포지토리에 대하여 따로 조회 가능
+
+![](https://velog.velcdn.com/images/codegod/post/018e315f-388a-494f-b778-fa8c1ee8e8c8/image.gif)
+- 팀장 권한에 따라 프로젝트에 대한 정보 및 멤버에 대한 관리를 할 수 있는 영역
+
+### Admin.
+![](https://velog.velcdn.com/images/codegod/post/77a940cd-812f-43a0-a68d-2bff9e68f754/image.gif)
+- 사용자가 사용중인 기술에 대한 통계를 표시
+- 모든 항목에 대한 조회 및 수정 삭제 기능
+- 새로운 스택 추가 및 배너에 대한 추가,수정,삭제,활성화 여부 업데이트
+
+### Admin EVENT.
+![](https://velog.velcdn.com/images/codegod/post/77cb0e30-245a-46e9-86f4-a80bc43b5720/image.gif)
+- 관리자페이지에서 키시퀀스를 통해 커스텀 커맨드 입력시 커스텀 디자인한 LetterGlitch 표기 후 다음 주소로 이동
+- 이스터에그 기능으로 타 페이지로 확대 가능하나 필요성 부족으로 인해 관리자 페이지에만 적용
+
+[소스링크 서버](https://github.com/Minhyeok-Create/CrewDock_Server)
+[소스링크 클라이언트](https://github.com/Minhyeok-Create/crew-dock-client)
+[배포된 서버](http://crewdock.kro.kr/)
+
+
+
+
